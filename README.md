@@ -1,39 +1,39 @@
 # 👋 Halo, Saya Rizki Panca Anugrah (@Pappa66)
 
-### 👨‍💻 Professional Web Developer | OOP & Algorithms Enthusiast
+Saya adalah seorang *Junior Web Developer* khususnya di backend dengan pemahaman fundamental pemrograman dan *Object-Oriented Programming* (OOP) yang kuat. Saya berfokus pada pengembangan aplikasi web yang efisien, fungsional, dan mudah dipelihara.
 
-Saya adalah seorang *Web Developer* yang bersemangat dalam merancang dan membangun aplikasi web yang terukur, efisien, dan memiliki antarmuka yang intuitif. Saya memiliki pemahaman yang kuat tentang *Object-Oriented Programming* (OOP), algoritma fundamental, dan siklus pengembangan perangkat lunak yang rapi dari desain hingga *deployment*.
-
-- 👀 **Fokus Utama:** Pengembangan *Front-End* modern (React & Next.js), UI/UX *Prototyping* (Figma), serta integrasi *Backend-as-a-Service* (Supabase & Firebase).
-- 🌱 **Saat Ini Sedang Mengerjakan/Mempelajari:** Mengembangkan aplikasi sistem manajemen terintegrasi (seperti SIMETRI dan sistem inventori), mengelola *sprint* proyek kolaboratif, dan terus meningkatkan *skill* melalui program seperti IDCamp.
-- 💞️ **Terbuka untuk Kolaborasi:** Proyek *open-source* berbasis web, pengembangan arsitektur *cloud*, atau kolaborasi tim yang menggunakan metodologi *agile* (Trello/GitHub Projects).
+- 👀 **Fokus Utama:** Pengembangan *Back-End* dan *Full-Stack* menggunakan ekosistem TypeScript, Laravel, atau Express.
+- 🌱 **Sedang Mendalami:** Ekosistem React, Next.js, dan optimalisasi *deployment* di lingkungan VPS.
+- 💞️ **Terbuka untuk Kolaborasi:** Proyek *web development* yang membutuhkan solusi dari sisi basis data maupun arsitektur aplikasi.
 - 📫 **Cara Menghubungi Saya:** https://www.linkedin.com/in/panca28/ | rizkipanca03@gmail.com
-- ⚡ **Fakta Unik:** Kode dan *bug* yang paling rumit biasanya berhasil saya selesaikan setelah segelas kopi Americano. ☕
+- ⚡ **Fakta Unik:** Lebih suka mengulik konfigurasi server dan *deployment* mandiri di VPS untuk melihat aplikasi berjalan optimal.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
-**Frontend & Frameworks:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+**Bahasa & Framework:**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React_(Familiar)-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 
-**Backend, Cloud & Database:**
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+**Database & BaaS:**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=flat-square&logo=supabase&logoColor=3ECF8E)
 
-**Deployment & Hosting:**
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
+**Deployment & Server:**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger_(Shared/VPS)-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 
-**Tools & Management:**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+**Version Control & Management:**
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pappa66&show_icons=true&theme=transparent&hide_border=true&title_color=white&text_color=white)
