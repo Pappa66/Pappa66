@@ -1,10 +1,10 @@
 # 👋 Halo, Saya Rizki Panca Anugrah (@Pappa66)
 
-Saya adalah seorang *Junior Web Developer* khususnya di backend dengan pemahaman fundamental pemrograman dan *Object-Oriented Programming* (OOP) yang kuat. Saya berfokus pada pengembangan aplikasi web yang efisien, fungsional, dan mudah dipelihara.
+Saya adalah seorang *Junior Web Developer* spesifik di backend dengan pemahaman fundamental pemrograman dan *Object-Oriented Programming* (OOP) yang kuat. Saat ini, saya memiliki minat besar untuk terus berkembang dan berkarir sebagai seorang **Backend Engineer**.
 
-- 👀 **Fokus Utama:** Pengembangan *Back-End* dan *Full-Stack* menggunakan ekosistem TypeScript, Laravel, atau Express.
-- 🌱 **Sedang Mendalami:** Ekosistem React, Next.js, dan optimalisasi *deployment* di lingkungan VPS.
-- 💞️ **Terbuka untuk Kolaborasi:** Proyek *web development* yang membutuhkan solusi dari sisi basis data maupun arsitektur aplikasi.
+- 👀 **Fokus Utama:** Pengembangan *Back-End* menggunakan ekosistem TypeScript, Laravel, dan Express.
+- 🌱 **Sedang Mendalami:** **Golang (Go)** untuk memperkuat pondasi sebagai *Backend Engineer*, ekosistem React/Next.js, serta optimalisasi *deployment* di lingkungan VPS.
+- 💞️ **Terbuka untuk Kolaborasi:** Proyek *web development* yang membutuhkan solusi dari sisi arsitektur *server-side* dan basis data.
 - 📫 **Cara Menghubungi Saya:** https://www.linkedin.com/in/panca28/ | rizkipanca03@gmail.com
 - ⚡ **Fakta Unik:** Lebih suka mengulik konfigurasi server dan *deployment* mandiri di VPS untuk melihat aplikasi berjalan optimal.
 
@@ -13,6 +13,7 @@ Saya adalah seorang *Junior Web Developer* khususnya di backend dengan pemahaman
 ### 💻 Tech Stack & Tools
 
 **Bahasa & Framework:**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
